@@ -1,0 +1,9 @@
+[**2141-4-12**] 12:34 PM
+ [**Last Name (un) 268**] DUP EXTEXT BIL (MAP/DVT)                                    Clip # [**Clip Number (Radiology) 84438**]
+ Reason: BILATERAL EDEMA
+ ______________________________________________________________________________
+                                 FINAL REPORT
+
+ HISTORY: Bilateral leg edema.
+
+ FINDINGS: Duplex and color Doppler show no lower extremity DVT bilaterally.

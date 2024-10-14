@@ -1,0 +1,19 @@
+[**Last Name (LF) **],[**First Name3 (LF) **]                       EU                         [**2166-10-9**]  8:24 PM
+ CTA HEAD W&W/O C & RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 38938**]
+ CT BRAIN PERFUSION; -59 DISTINCT PROCEDURAL SERVICE
+ Reason: eval for ICH/CVA
+  Contrast: OPTIRAY Amt: 110
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  86 year old woman with new onset dysarthria, last known well at 1530
+ REASON FOR THIS EXAMINATION:
+  eval for ICH/CVA
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+                                  PFI REPORT
+ 1.  No evidence of acute infarct, or intracranial hemorrhage in brain.
+ 2.  No evidence of focal flow-limiting stenosis, occlusion, or aneurysm
+ greater than 3 mm in arteries of anterior and posterior circulation of head.
+ 3.  Calcified plaque at the left distal common carotid artery causing
+ approximately 25% stenosis.
+

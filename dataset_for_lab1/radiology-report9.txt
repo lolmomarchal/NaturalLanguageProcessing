@@ -1,0 +1,17 @@
+[**2199-8-7**] 10:36 AM
+ MR HEAD W/ CONTRAST                                             Clip # [**Clip Number (Radiology) 22429**]
+ Reason: VIEWSCOPE
+  Contrast: MAGNEVIST Amt: 10
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ HISTORY:  45 year old female with metastatic lung cancer.
+
+ TECHNIQUE:  Axial MP-RAGE images were obtained after the administration of 10
+ cc of intravenous gadolinium per the viewscope protocol.
+
+ COMPARISON:  [**2199-7-14**].
+
+ BRAIN MRI WITH CONTRAST:  WAND study utilizing axial MP-RAGE sequences for the
+ purposes of stereotactic surgery was performed.  Again demonstrated are
+ multiple enhancing lesions in the left cerebral hemisphere and in the
+ cerebellum with associated surrounding edema.

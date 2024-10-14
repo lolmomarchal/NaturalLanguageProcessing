@@ -1,0 +1,43 @@
+[**2145-3-13**] 2:58 AM
+ CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 86197**]
+ CT,CORONAL,SAGITAL,OBL RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+ Reason: evaluate for diverticulitis
+  Contrast: OPTIRAY Amt: 150
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  77 year old woman with h/o diverticuli s/p recent admit with diverticulitis and
+  lower GI bleed--CT showed thickening, stranding and paracolic fluid at left
+  descending and prox. sigmoid colon worrisome for diverticulitis vs ischemic
+  bowel vs hemorrhage into bowel wall. Presents with recurrent LLQ pain,
+  diarrhea. Please evaluate for diverticulitis, perforation.
+ REASON FOR THIS EXAMINATION:
+  evaluate for diverticulitis
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ HISTORY:  Diverticulitis.
+
+ TECHNIQUE:  Helically acquired CT images of the lung bases through the pubic
+ symphysis with contrast.
+
+ CT ABDOMEN WITH CONTRAST:  Comparison made to prior CT scan dated [**2145-2-27**].
+ There is again demonstrated at the lung bases a 3 mm calcified granuloma at
+ the left base but otherwise the lungs are clear. There are no pleural
+ effusions. The liver, spleen, pancreas, adrenals, and kidneys are
+ unremarkable. Again seen is a large 4 cm gallbladder stone. The gallbladder
+ otherwise appears unremarkable. The bowel and upper abdomen appear
+ unremarkable. No free fluid is seen.
+
+ CT PELVIS WITH CONTRAST:  There has been marked interval improvement in the
+ thickened sigmoid colon seen in the prior study. There are numerous
+ diverticula and minimal stranding in the sigmoid colon which is likely due to
+ clearing residual disease. No free fluid is seen. The kidneys demonstrate
+ bilateral symmetrical contrast excretion with the ureters seen to course the
+ bladder with no filling defects. The bladder appears unremarkable. No free
+ fluid is present. No focal fluid collections are identified.
+
+ BONE WINDOWS:  Bone demonstrate no suspicious lytic or blastic lesions.
+
+ IMPRESSION: 1) Interval improvement in patient's sigmoid disease as in
+ [**2145-2-27**].  There is mild stranding of sigmoid colon which likely is related to
+ residua of prior disease but cannot rule out an early diverticulitis.
+

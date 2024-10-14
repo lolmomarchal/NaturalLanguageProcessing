@@ -1,0 +1,24 @@
+[**2119-3-11**] 11:46 AM
+ CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 20567**]
+ Reason: r/o cerebral edema, central pontine myelinolysis, mass
+ ______________________________________________________________________________
+ [**Hospital 3**] MEDICAL CONDITION:
+  47 year old man with s/p liver transplant w/ persistent decreased mental status
+ REASON FOR THIS EXAMINATION:
+  r/o cerebral edema, central pontine myelinolysis, mass
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ HISTORY: 47 year old man status post liver transplant with persistent
+ decreased mental status.  Rule out cerebral edema, central pontine
+ myelinolysis.
+
+ TECHNIQUE: Contiguous axial images of the head are obtained without IV
+ contrast from the skull base to the vertex.
+
+ CT HEAD W/O CONTRAST: The sulci and ventricles are appropriate for the
+ patient's age.  No intra or extraaxial fluid collections or masses.  No shift
+ of midline structures is observed.  The [**Doctor Last Name **]-white matter differentiation is
+ unremarkable.
+
+ IMPRESSION: No evidence for cerebral edema.
+

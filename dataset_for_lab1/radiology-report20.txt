@@ -1,0 +1,18 @@
+[**2100-10-10**] 10:58 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 54561**]
+ Reason: S/P CABG, S/P CHEST TUBE REMOVAL
+ ______________________________________________________________________________
+ [**Hospital 4**] MEDICAL CONDITION:
+  51 year old man with
+ REASON FOR THIS EXAMINATION:
+  S/P CABG, S/P CHEST TUBE REMOVAL
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION: Chest tube removal.
+
+ The heart is enlarged.  There are low lung volumes.  A right IJ sheath is
+ present, terminating in the superior vena cava.  There is no pneumothorax.
+ Post CABG changes are evident.
+
+ IMPRESSION: Satisfactory postoperative appearance.
+
